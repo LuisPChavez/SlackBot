@@ -1,0 +1,22 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "Bot will message a user when a new peson has joined the slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisPChavez/SlackBot.git"
+  },
+  "author": "Luis Chavez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisPChavez/SlackBot/issues"
+  },
+  "homepage": "https://github.com/LuisPChavez/SlackBot#readme",
+  "dependencies": {
+    "@slack/client": "^3.14.1"
+  }
+}
